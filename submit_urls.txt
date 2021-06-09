@@ -1,3 +1,4 @@
+https://blog.yhan219.com/cache-consistency/
 https://blog.yhan219.com/oracle-install/
 https://blog.yhan219.com/linux-directory/
 https://blog.yhan219.com/nginx/
@@ -7,4 +8,3 @@ https://blog.yhan219.com/jetbrains-reset/
 https://blog.yhan219.com/alpine-time-zone/
 https://blog.yhan219.com/soft-ether-vpn/
 https://blog.yhan219.com/shell-13-question/
-https://blog.yhan219.com/idea-ssh-mysql/
