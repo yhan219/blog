@@ -1,4 +1,5 @@
 https://blog.yhan219.com/java-oom/
+https://blog.yhan219.com/java-gc-log/
 https://blog.yhan219.com/centos8-time-sync/
 https://blog.yhan219.com/cache-consistency/
 https://blog.yhan219.com/oracle-install/
@@ -7,4 +8,3 @@ https://blog.yhan219.com/nginx/
 https://blog.yhan219.com/nps/
 https://blog.yhan219.com/rabbitmq-model/
 https://blog.yhan219.com/jetbrains-reset/
-https://blog.yhan219.com/alpine-time-zone/
