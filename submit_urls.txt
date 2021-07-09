@@ -1,3 +1,4 @@
+https://blog.yhan219.com/http_forwarding/
 https://blog.yhan219.com/windows-active/
 https://blog.yhan219.com/java-oom/
 https://blog.yhan219.com/java-gc-log/
@@ -7,4 +8,3 @@ https://blog.yhan219.com/oracle-install/
 https://blog.yhan219.com/linux-directory/
 https://blog.yhan219.com/nginx/
 https://blog.yhan219.com/nps/
-https://blog.yhan219.com/rabbitmq-model/
