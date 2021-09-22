@@ -1,5 +1,4 @@
 https://blog.yhan219.com/arthas-hot-swap/
-https://blog.yhan219.com/acme/
 https://blog.yhan219.com/http_forwarding/
 https://blog.yhan219.com/windows-active/
 https://blog.yhan219.com/java-oom/
@@ -8,3 +7,4 @@ https://blog.yhan219.com/centos8-time-sync/
 https://blog.yhan219.com/cache-consistency/
 https://blog.yhan219.com/oracle-install/
 https://blog.yhan219.com/linux-directory/
+https://blog.yhan219.com/nginx/
