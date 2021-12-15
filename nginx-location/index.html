@@ -100,10 +100,7 @@
 <figure class="highlight nginx"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">location</span> / &#123;</span><br><span class="line">    <span class="attribute">proxy_pass</span> http://tomcat:8080/</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 
-
-
-
-
+<hr>
 <p>nginx 通过 <code>ngx_http_rewrite_module</code> 模块支持 URI 重写、支持 if 条件判断，但不支持 else。</p>
 <p>rewrite 只能放在 <strong>server { }</strong> 、 <strong>location { }</strong> 、 <strong>if { }</strong> 中，并且只能对域名后边的除去传递的参数外的字符串起作用，例如<code>http://aaa.com/a/we/index.php?id=1&amp;u=str</code>只对/a/we/index.php重写。语法为 <code>rewrite regex replacement [flag];</code></p>
 <h2 id="指令执行顺序"><a href="#指令执行顺序" class="headerlink" title="指令执行顺序"></a>指令执行顺序</h2><p>表面看 rewrite 和 location 功能有点像，都能实现跳转，主要区别在于 <strong>rewrite 是在同一域名内更改获取资源的路径，而 location 是对一类路径做控制访问或反向代理，可以 proxy_pass 到其他机器</strong>。很多情况下 rewrite 也会写在 location 里，它们的执行顺序是：</p>
