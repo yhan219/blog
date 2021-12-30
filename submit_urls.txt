@@ -1,5 +1,5 @@
-https://blog.yhan219.com/nginx-location/
 https://blog.yhan219.com/idea-active/
+https://blog.yhan219.com/nginx-location/
 https://blog.yhan219.com/nc/
 https://blog.yhan219.com/arthas-hot-swap/
 https://blog.yhan219.com/http_forwarding/
