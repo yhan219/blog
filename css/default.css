@@ -11249,7 +11249,7 @@ figure.highlight {
   position: relative;
   margin: 1em 0 1em !important;
   border-radius: 4px;
-  background: url("https://gitee.com/yhan219/blog-image/raw/master/yhan/640.png") 42px 8px/41px no-repeat #000;
+  background: url("https://cdn.jsdelivr.net/gh/yhan219/blog-image@master/yhan/640.png") 42px 8px/41px no-repeat #000;
 }
 figure.highlight.folded .highlight-body {
   height: 0;
