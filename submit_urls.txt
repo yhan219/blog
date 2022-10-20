@@ -1,4 +1,3 @@
-https://blog.yhan219.com/oauth2-oidc/
 https://blog.yhan219.com/smart-doc-torna/
 https://blog.yhan219.com/idea-active/
 https://blog.yhan219.com/nginx-location/
@@ -8,3 +7,4 @@ https://blog.yhan219.com/http_forwarding/
 https://blog.yhan219.com/windows-active/
 https://blog.yhan219.com/java-oom/
 https://blog.yhan219.com/java-gc-log/
+https://blog.yhan219.com/centos8-time-sync/
