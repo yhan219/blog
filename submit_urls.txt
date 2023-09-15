@@ -1,3 +1,4 @@
+https://blog.yhan219.com/gitea-k3s-devops/
 https://blog.yhan219.com/nginx-log-split/
 https://blog.yhan219.com/redis-queue/
 https://blog.yhan219.com/nginx-check/
@@ -7,4 +8,3 @@ https://blog.yhan219.com/nginx-location/
 https://blog.yhan219.com/nc/
 https://blog.yhan219.com/arthas-hot-swap/
 https://blog.yhan219.com/http_forwarding/
-https://blog.yhan219.com/windows-active/
