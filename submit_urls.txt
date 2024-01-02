@@ -1,3 +1,4 @@
+https://blog.yhan219.com/nginx-rate-limit/
 https://blog.yhan219.com/k3s-ali-cert/
 https://blog.yhan219.com/nginx/
 https://blog.yhan219.com/gitea-k3s-devops/
@@ -7,4 +8,3 @@ https://blog.yhan219.com/nginx-check/
 https://blog.yhan219.com/smart-doc-torna/
 https://blog.yhan219.com/idea-active/
 https://blog.yhan219.com/nginx-location/
-https://blog.yhan219.com/nc/
